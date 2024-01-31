@@ -10,12 +10,11 @@ Quickly and securely capture, extract, and verify data from diverse ID cards, pa
 Designed to fit seamlessly together, our technology can be integrated as a fully-bundled identity document verification solution or as separate modules via developer-friendly mobile or browser SDK.
 Try it out today!
 
+### Please [Contact US](https://www.miniai.live/contact/) for testing on your mobile phone.
 
 > **Note**
 >
 > SDK is fully on-premise, processing all happens on hosting server and no data leaves server...
-
-<br></br>
 
 ## Test Result
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/9617f437-ee9b-4638-89e9-9c8ea746315c" alt="Test4" width="200" />
