@@ -5,7 +5,7 @@
 </div>
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
-Introducing our ID Card recognition SDK. Reduce drop-off and boost conversions with ID scanning and verification solutions. 
+Introducing our ID Card recognition Android SDK. Reduce drop-off and boost conversions with ID scanning and verification solutions. 
 Quickly and securely capture, extract, and verify data from diverse ID cards, passports, driver’s licenses, and other documents with our proven, AI-first approach.
 Designed to fit seamlessly together, our technology can be integrated as a fully-bundled identity document verification solution or as separate modules via developer-friendly mobile or browser SDK.
 Try it out today!
@@ -17,18 +17,12 @@ Try it out today!
 
 <br></br>
 
-
 ## Test Result
-<img src="https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-Android/assets/106538966/a5d1304a-d5f5-4af2-9ec6-a6f4e59674af_small.jpg" alt="Test4" width="150" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-Android/assets/106538966/07a2c05b-2ed2-43e2-b58f-4799829b6ceb_small.jpg" alt="Test5" width="150" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-Android/assets/106538966/7a2d1a01-e54e-4fd5-94e6-45adf1fbe5ed_small.jpg" alt="Test2" width="150" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-Android/assets/106538966/8bada556-b6fe-4056-bb77-84f555a6b2eb_small.jpg" alt="Test3" width="150" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-Android/assets/106538966/15957d97-8967-4950-a73d-30d66704e5bd_small.jpg" alt="Test1" width="150" />
+<img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/9617f437-ee9b-4638-89e9-9c8ea746315c" alt="Test4" width="200" />
+<img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/4d84de83-f40f-48f8-a760-26c8513ecac9" alt="Test5" width="200" />
+<img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/d153e7c1-a764-4835-9fd1-1550d0d58ceb" alt="Test2" width="200" />
 
 <br></br>
-
-https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-AndroidSDK/assets/153516004/99ae5b73-cb36-47d9-ae38-d91c031c2953
-
 
 ## About MiniAiLive
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
