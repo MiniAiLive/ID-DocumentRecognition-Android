@@ -5,19 +5,17 @@
 </div>
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
-Upgrade your Android app with MiniAiLive's Face Liveness Detection!   With our advanced computer vision techniques, you can now enhance security and accuracy on your Android platform. Check out our latest repository containing a demonstration of 2D &amp; 3D face liveness detection capabilities.   Try it out today!
+Introducing our ID Card recognition SDK. Reduce drop-off and boost conversions with ID scanning and verification solutions. 
+Quickly and securely capture, extract, and verify data from diverse ID cards, passports, driver’s licenses, and other documents with our proven, AI-first approach.
+Designed to fit seamlessly together, our technology can be integrated as a fully-bundled identity document verification solution or as separate modules via developer-friendly mobile or browser SDK.
+Try it out today!
 
 
 > **Note**
 >
-> SDK is fully on-premise, processing all happens on hosting server and no data leaves server..
+> SDK is fully on-premise, processing all happens on hosting server and no data leaves server...
 
 <br></br>
-
-## Enjoy APP on Google Play
-<a href="https://play.google.com/store/apps/details?id=com.miniai.liveness&hl=en-HK" target="_blank">
-  <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
-</a>
 
 
 ## Test Result
