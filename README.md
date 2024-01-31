@@ -16,9 +16,9 @@ Try it out today!
 >
 > - Our SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
 >
-> - 10,000+ document templates covering IDs issued in 200+ countries and territories
+> - 10,000+ document templates covering IDs issued in 200+ countries and territories.
 >
-> - Support of 100+ languages and special characters via sophisticated neural networks
+> - Support of 100+ languages and special characters via sophisticated neural networks.
 
 ## Test Result
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/9617f437-ee9b-4638-89e9-9c8ea746315c" alt="Test4" width="200" />
