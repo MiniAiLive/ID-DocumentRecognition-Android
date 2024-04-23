@@ -1,6 +1,6 @@
 <div align="center">
    <h1> MiniAiLive ID Card Recognition Android SDK </h1>
-   <img src=https://www.miniai.live/wp-content/uploads/2023/03/logo_name-1-768x426.png alt="MiniAiLive Logo"
+   <img src=https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png alt="MiniAiLive Logo"
    width="300">
 </div>
 
