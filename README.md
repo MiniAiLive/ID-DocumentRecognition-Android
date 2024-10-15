@@ -1,5 +1,5 @@
 <div align="center">
-   <h1> MiniAiLive ID Document Recognition Android SDK </h1>
+   <h1>ID Document Recognition Android SDK</h1>
    <img src=https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png alt="MiniAiLive Logo"
    width="300">
 </div>
@@ -14,25 +14,33 @@ Try it out today!
 
 > **Note**
 >
-> - Our SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
->
-> - 10,000+ document templates covering IDs issued in 200+ countries and territories.
->
-> - Support of 100+ languages and special characters via sophisticated neural networks.
+> - Our SDK is fully on-premise, processing all happens on hosting server and no data leaves server.<br>
+> - 10,000+ document templates covering IDs issued in 200+ countries and territories.<br>
+> - Support of 100+ languages and special characters via sophisticated neural networks.<br>
 
-## Test Result
+## Test Results
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/9617f437-ee9b-4638-89e9-9c8ea746315c" alt="Test4" width="200" />
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/4d84de83-f40f-48f8-a760-26c8513ecac9" alt="Test5" width="200" />
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/d153e7c1-a764-4835-9fd1-1550d0d58ceb" alt="Test2" width="200" />
 <br></br>
 
-## Try Online Demo
-Please visit our ID API Web Demo here. https://demo.miniai.live
-<a href="https://demo.miniai.live" target="_blank">
-  <img alt="" src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows-SDK/assets/127708602/15de62ae-1d5a-408f-9805-60e935da40b4">
-</a>
+## Face & IDSDK Online Demo, Resources
+<div style="display: flex; justify-content: center; align-items: center;"> 
+   <table style="text-align: center;">
+      <tr>
+         <td style="text-align: center; vertical-align: middle;"><a href="https://github.com/MiniAiLive"><img src="https://miniai.live/wp-content/uploads/2024/10/github-300x95.png" style="height: 80px; margin-right: 5px;" title="GITHUB"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://huggingface.co/MiniAiLive"><img src="https://miniai.live/wp-content/uploads/2024/10/huggingface-300x88.png" style="height: 80px; margin-right: 5px;" title="HuggingFace"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://demo.miniai.live"><img src="https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg" style="height: 80px; margin-right: 5px;" title="Gradio"/></a></td> 
+      </tr> 
+      <tr>
+         <td style="text-align: center; vertical-align: middle;"><a href="https://docs.miniai.live/"><img src="https://miniai.live/wp-content/uploads/2024/10/a-300x70.png" style="height: 80px; margin-right: 5px;" title="Documentation"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://www.youtube.com/@miniailive"><img src="https://miniai.live/wp-content/uploads/2024/10/Untitled-1-300x70.png" style="height: 80px; margin-right: 5px;" title="Youtube"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://play.google.com/store/apps/dev?id=5831076207730531667"><img src="https://miniai.live/wp-content/uploads/2024/10/googleplay-300x62.png" style="height: 80px; margin-right: 5px;" title="Google Play"/></a></td>
+      </tr>
+   </table>
+</div>
 
-## Related Product
+## Our Products
 No | Project | Feature
 ---|---|---|
 1 | [FaceRecognition-LivenessDetection-Android-SDK](https://github.com/MiniAiLive/FaceRecognition-LivenessDetection) | Face Matching, 3D Face Passive Liveness
