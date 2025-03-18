@@ -10,13 +10,14 @@ Quickly and securely capture, extract, and verify data from diverse ID cards, pa
 Designed to fit seamlessly together, our technology can be integrated as a fully-bundled identity document verification solution or as separate modules via developer-friendly mobile or browser SDK.
 Try it out today!
 
-### Feel free to contact us on [WhatsApp](https://wa.me/+19162702374)  to get SDK with a trial License.
-
 > **Note**
 >
 > - Our SDK is fully on-premise, processing all happens on hosting server and no data leaves server.<br>
 > - 10,000+ document templates covering IDs issued in 200+ countries and territories.<br>
 > - Support of 100+ languages and special characters via sophisticated neural networks.<br>
+
+## Request SDK with trial Key
+Feel free to contact us on [WhatsApp](https://wa.me/+19162702374)  to get SDK with a trial License.
 
 ## Test Results
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/9617f437-ee9b-4638-89e9-9c8ea746315c" alt="Test4" width="200" />
