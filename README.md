@@ -17,7 +17,7 @@ Try it out today!
 > - Support of 100+ languages and special characters via sophisticated neural networks.<br>
 
 ## How to setup
-1. You need to download library file from here. [Googoe Driver](https://drive.google.com/file/d/1Ia3VOdDORlm9PCceBG6i1g0yAutFqzwh/view?usp=sharing)
+1. You need to download library file from here. [Google Driver](https://drive.google.com/file/d/1Ia3VOdDORlm9PCceBG6i1g0yAutFqzwh/view?usp=sharing)
 2. Place libminiai_IDSDK.aar file to the app/libs/. And build and run on your Android device.
 
 ## Request trial Key
