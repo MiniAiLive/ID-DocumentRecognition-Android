@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MiniAI-IDSDK</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+    </string>
+    <string name="button_fullproc">Full Processing</string>
+    <string name="button_barcode">BarCode</string>
+    <string name="button_ocr">OCR</string>
+    <string name="button_mrz">MRZ</string>
+    <string name="button_bank">Credit Card</string>
+    <string name="graphics">Graphics</string>
+    <string name="text">Text</string>
+    <string name="tab_graphics">Graphics</string>
+    <string name="tab_text">Text</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="images">Images</string>
+    <string name="portrait">Portrait</string>
+    <string name="document">Document</string>
+    <string name="position">Position</string>
+    <string name="quality">Quality</string>
+    <string name="mrz">MRZ</string>
+    <string name="documentName">Document Name</string>
+    <string name="issuingStateCode">Issuing State Code</string>
+
+    <string name="appid_error">AppID Error!</string>
+    <string name="invalid_license">Invalid License!</string>
+    <string name="license_expired">License Expired!</string>
+    <string name="no_activated">No Activated!</string>
+    <string name="init_error">Init Error!</string>
+
+    <string name="about_contact_us">Contact us</string>
+    <string name="about_instagram">Follow us on Instagram</string>
+    <string name="about_facebook">Like us on Facebook</string>
+    <string name="about_play_store">Rate us on the Play Store</string>
+    <string name="about_youtube">Watch us on Youtube</string>
+    <string name="about_twitter">Follow us on Twitter</string>
+    <string name="about_github">Fork us on GitHub</string>
+    <string name="about_website">Visit our website</string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+
+    <string name="camera">CAMERA</string>
+    <string name="gallery">GALLERY</string>
+</resources>
